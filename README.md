@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This application is developed using react with functional components and hooks. 
+This app has a form to add an expense and the amount will be automatically updated in the tracker. It will also calculate expense and total amount used.  
+It has useState, useContext, useReducer hooks. 
 
 In the project directory, you can run:
 
